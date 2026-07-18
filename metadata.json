@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Test Colorimétrico",
+  "description": "Simulador interactivo y educativo de reacciones químicas con reactivo Marquis para reducción de daños.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
